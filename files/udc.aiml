@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>I have no answer for that.</template>
+  </category>
+<category>
+    <pattern>hi</pattern>
+    <template>hi, i'm good</template>
+</category>
+
+<category>
+    <pattern>4455</pattern>
+    <template>price :400
+offer code : 785tu5i
+<image>https://blogger.googleusercontent.com/img/a/AVvXsEhARrKx2JlsaMhJt3LpMOfgX-GJVzmyiD5yVc8ABvmUZQygYIgFfQnArpMs_hlSzCTMdsKbSmd9b0sZrqVF4r2U9k8X4l5cPHJhF7Dy2I1TNxT7CwPIGSORpNGppOpGkxZwkFIJFb_0R0Q2kVbIwTpXywfFi3I_-PoN_wkVBuVV1MlNM9WR4jiSUncDUw=w303-h617</image></template>
+</category>
+</aiml>
